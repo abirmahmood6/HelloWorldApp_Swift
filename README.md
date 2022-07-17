@@ -4,7 +4,8 @@ Hello World App
 `TODO://` Add app description
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)![ezgif com-gif-maker](https://user-images.githubusercontent.com/102193884/179423668-0c3040e7-ef5c-4acd-b703-d08d9f7003e9.gif)
+
 
 <img src="
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/102193884/179423622-d8f7e3c7-cfbe-408a-bea8-e8ea92b32344.gif)" width=200><br>
