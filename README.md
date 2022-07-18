@@ -7,8 +7,7 @@ Hello World App 📱
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/102193884/179433780-d6461c9b-889e-46db-a59c-c09b27943e4f.gif)
 
 
-<img src="
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/102193884/179423622-d8f7e3c7-cfbe-408a-bea8-e8ea92b32344.gif)" width=200><br>
+
 
 
 ### Required User Stories. 👨‍💻
