@@ -4,6 +4,7 @@ Hello World App 📱
 
 
 ### App Walk-though
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/102193884/179433780-d6461c9b-889e-46db-a59c-c09b27943e4f.gif)
 
 
 <img src="
