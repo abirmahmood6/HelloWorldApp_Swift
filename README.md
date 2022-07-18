@@ -1,4 +1,4 @@
-Hello World App 📱
+### Hello World App 📱
 
 📝 This is a simple app where you can change the color of the text, the color of the background and the text itself. You can make this changes with the buttons underneath the text. 
 
